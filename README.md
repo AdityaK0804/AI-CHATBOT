@@ -46,10 +46,4 @@ The chatbot interface makes the system easy to use, even for non-technical users
 * Fast response time
 
 ---
-
-If you want, I can also give:
-
-* Resume-ready description (short professional version)
-* Viva explanation (simple language)
-* Architecture diagram explanation
-* GitHub README version 🚀
+@aditya
