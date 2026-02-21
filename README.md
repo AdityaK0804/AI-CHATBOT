@@ -1,4 +1,4 @@
-Here’s a clean and professional project description for **AgroSaathi – AI Chatbot for Plant Disease Prediction** 🌱
+**AgroSaathi – AI Chatbot for Plant Disease Prediction** 🌱
 
 ---
 
